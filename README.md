@@ -1,6 +1,8 @@
 # DevOps Interview Questions
 Devops interview questions from basic to advance. Please create PRs if you wanna add new or update existing questions.
 
+![AWS](assets/interview questions.png)
+
 This project is designed to be a comprehensive guide for anyone involved in software development and IT operations. Whether you're a junior engineer trying to understand the fundamentals or a seasoned pro looking to sharpen your skills, you'll find valuable insights here.
 
 
