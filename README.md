@@ -1,4 +1,6 @@
 # DevOps Interview Questions
+⭐ If you find this helpful, please star the repository! ⭐
+
 Devops interview questions from basic to advance. Please create PRs if you wanna add new or update existing questions.
 
 ![AWS](assets/interview_questions.png)
@@ -18,3 +20,7 @@ The repository is organized by key DevOps pillars. Each directory contains a `RE
 * **<a href= "https://github.com/bhanubokkasam/devops-interview-questions/tree/main/Monitoring-and-Observability#monitoring-and-observability">Monitoring-and-Observability</a>**: Logging, Metrics, and Tracing.
 * **<a href= "https://github.com/bhanubokkasam/devops-interview-questions/tree/main/Security#security-devsecops">Security</a>**: DevSecOps principles and practices.
 * **<a href= "https://github.com/bhanubokkasam/devops-interview-questions/tree/main/Cloud-Platforms#cloud-platforms">Cloud-Platforms</a>**: AWS, Azure, and GCP in a DevOps context.
+
+
+
+For more weekly insights on DevOps, subscribe to my newsletter: https://tinyurl.com/decodeops-newsletter
